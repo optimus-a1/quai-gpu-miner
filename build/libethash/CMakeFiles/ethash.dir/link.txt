@@ -1,0 +1,2 @@
+/usr/bin/ar qc libethash.a  CMakeFiles/ethash.dir/ethash.cpp.o CMakeFiles/ethash.dir/managed.cpp.o CMakeFiles/ethash.dir/keccak.c.o CMakeFiles/ethash.dir/keccakf800.c.o CMakeFiles/ethash.dir/keccakf1600.c.o CMakeFiles/ethash.dir/primes.c.o CMakeFiles/ethash.dir/progpow.cpp.o
+/usr/bin/ranlib libethash.a
