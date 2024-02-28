@@ -1,0 +1,10 @@
+{
+  "name": "ethcoreminer",
+  "version": "1.0.0+commit.f86ac6b0",
+  "is_prerelease": true,
+  "commit": "f86ac6b077d49de7296eb7b7707c705c59231c94",
+  "branch": "main",
+  "repo": "https://github.com/dominant-strategies/quai-gpu-miner",
+  "system_name": "linux",
+  "system_processor": "x86_64"
+}
