@@ -1,0 +1,2 @@
+/usr/bin/ar qc ethcoreminer/libethcoreminer-buildinfo.a  CMakeFiles/ethcoreminer-buildinfo.dir/ethcoreminer/buildinfo.c.o
+/usr/bin/ranlib ethcoreminer/libethcoreminer-buildinfo.a

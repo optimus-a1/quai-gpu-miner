@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/quai-gpu-miner/build/ethcoreminer/buildinfo.c
+buildinfo.h
+/root/quai-gpu-miner/build/ethcoreminer/buildinfo.h
+
+/root/quai-gpu-miner/build/ethcoreminer/buildinfo.h
+

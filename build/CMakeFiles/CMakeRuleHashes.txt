@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+caec66e9dc25e5032a3367d9aa0054f0 CMakeFiles/ethcoreminer-buildinfo-git
+92efa736284ddb15bd406b6ee4238179 ethcoreminer/buildinfo.c
+eed2c5f8c644491a2c19d578a7428c44 libethash-cl/CLMiner_kernel.h
+343180985964ae1b409bdf739a67ac97 libethash-cl/CMakeFiles/cl_kernel
+9face2eb69e04074dd2b59e45729433c libethash-cuda/CMakeFiles/cuda_kernel
+936973e2f919ac99a3e26c9b04d57c4e libethash-cuda/CMakeFiles/ethash-cuda.dir/ethash-cuda_generated_CUDAMiner_cuda.cu.o
+b509169bc308930972f95ac3f03ae81c libethash-cuda/CUDAMiner_kernel.h
