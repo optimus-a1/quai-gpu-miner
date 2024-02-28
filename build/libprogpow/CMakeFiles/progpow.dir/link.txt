@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprogpow.a  CMakeFiles/progpow.dir/ProgPow.cpp.o
+/usr/bin/ranlib libprogpow.a

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/quai-gpu-miner/libprogpow/ProgPow.cpp
+ProgPow.h
+/root/quai-gpu-miner/libprogpow/ProgPow.h
+sstream
+-
+regex
+-
+
+/root/quai-gpu-miner/libprogpow/ProgPow.h
+stdint.h
+-
+string
+-
+
